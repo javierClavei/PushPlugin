@@ -2,7 +2,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
-    id="com.phonegap.plugins.PushPluginMulti"
+    id="com.phonegap.plugins.PushPluginMejorado"
     version="2.2.6">
 
   <name>PushPlugin</name>
